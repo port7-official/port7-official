@@ -1,19 +1,40 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,100:303030&height=180&section=header&text=port7-official&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+of+GitHub;Notes%2C+Ideas+%26+Random+Things;Just+keeping+things+organized+%E2%9C%A8" alt="Typing SVG" /><br/><img src="https://komarev.com/ghpvc/?username=port7-official&style=flat-square&color=555555&label=VISITORS" /></div>---
+l<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=PORT7&fontSize=85&fontColor=ffffff&color=0:090909,50:292929,100:090909&animation=fadeIn&stroke=777777&fontAlignY=45&desc=PERSONAL%20ARCHIVE&descSize=14&descColor=999999&descAlignY=68" /><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=900&color=AAAAAA&center=true&vCenter=true&width=500&lines=Welcome+to+my+corner.;A+collection+of+notes+and+ideas.;Explore.+Learn.+Repeat." /><br/><br/>
 
-<div align="center">✦ A little space for everything.
+"EST. 2025"   ·   "PERSONAL SPACE"   ·   "ALWAYS EXPLORING"
 
-A collection of notes, learning materials, references, and things worth keeping.
+<br/>---
 
-<br/>"LEARN"   ·   "COLLECT"   ·   "EXPLORE"
+A DIGITAL CORNER
 
-</div>---
+A place to collect thoughts, notes, experiments and useful discoveries.
 
-<div align="center">⌁ GitHub at a glance
+<br/><table>
+<tr>
+<td align="center" width="50%">
+<b>01 / KNOWLEDGE</b>
+<br/><br/>
+Learning notes and references.
+</td>
+<td align="center" width="50%">
+<b>02 / COLLECTIONS</b>
+<br/><br/>
+Useful resources and materials.
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>03 / EXPERIMENTS</b>
+<br/><br/>
+Things worth exploring.
+</td>
+<td align="center">
+<b>04 / EVERYTHING ELSE</b>
+<br/><br/>
+A little bit of everything.
+</td>
+</tr>
+</table><br/><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=666666" width="75%" /><br/><sub>NOT EVERYTHING NEEDS A PURPOSE.</sub>
 
-<img src="https://github-readme-stats.vercel.app/api?username=port7-official&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B949E&rank_icon=github" width="49%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=port7-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" width="49%" /><br/><img src="https://streak-stats.demolab.com?user=port7-official&hide_border=true&background=0D1117&ring=9CA3AF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=777777" width="70%" /></div>---
+<br/><br/>
 
-<div align="center">✧ That's all for now.
-
-Nothing fancy. Just a place to keep things.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:171717&height=100&section=footer" width="100%" /></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:292929,100:090909&height=120&section=footer" /></div>
