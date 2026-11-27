@@ -1,17 +1,16 @@
  <div align="center">
 
-<a href="https://github.com/port7-official">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=PORT7&fontSize=85&fontColor=ffffff&fontAlignY=42&desc=PERSONAL%20ARCHIVE&descAlignY=65&descSize=16&animation=fadeIn" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEE9D9,50:DCE5D5,100:B9CCB7&height=240&section=header&text=PORT7&fontSize=90&fontColor=263B30&fontAlignY=40&desc=PERSONAL%20ARCHIVE&descSize=17&descColor=526858&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=A+space+for+everything+worth+keeping.;Ideas.+Knowledge.+Experiments.;Collected%2C+created%2C+and+explored." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=617966&center=true&vCenter=true&width=520&lines=A+place+for+curiosity.;A+space+for+things+worth+keeping.;Collect.+Explore.+Create." />
 
 <br/><br/>
 
-[![Personal Archive](https://img.shields.io/badge/TYPE-PERSONAL%20ARCHIVE-161b22?style=for-the-badge)](https://github.com/port7-official)
-[![Established](https://img.shields.io/badge/EST-2025-161b22?style=for-the-badge)](https://github.com/port7-official)
+`EST. 2025` &nbsp; · &nbsp; `PERSONAL SPACE` &nbsp; · &nbsp; `ALWAYS EXPLORING`
+
+<br/>
 
 </div>
 
@@ -19,9 +18,11 @@
 
 <div align="center">
 
-### A DIGITAL CORNER
+## A DIGITAL CORNER
 
-*A place to collect thoughts, notes, experiments and useful discoveries.*
+*Not everything needs a destination.*
+
+A personal space to collect thoughts, preserve knowledge, explore ideas and keep useful discoveries.
 
 <br/>
 
@@ -31,32 +32,40 @@
 <tr>
 <td width="50%" align="center">
 
-### 01 / KNOWLEDGE
+<img src="https://img.shields.io/badge/01-KNOWLEDGE-DFE8DA?style=flat-square&labelColor=DFE8DA&color=DFE8DA" />
 
-Learning notes, technical concepts, documentation and references.
+<br/><br/>
+
+Learning notes, technical concepts, references and things worth understanding.
 
 </td>
 <td width="50%" align="center">
 
-### 02 / COLLECTIONS
+<img src="https://img.shields.io/badge/02-COLLECTIONS-ECE5D5?style=flat-square&labelColor=ECE5D5&color=ECE5D5" />
 
-Useful resources, tools, materials and things worth keeping.
+<br/><br/>
+
+Useful resources, tools, materials and interesting finds.
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-### 03 / EXPERIMENTS
+<img src="https://img.shields.io/badge/03-EXPERIMENTS-DCE5E9?style=flat-square&labelColor=DCE5E9&color=DCE5E9" />
 
-Ideas, explorations, prototypes and things to figure out.
+<br/><br/>
+
+Ideas, experiments, prototypes and explorations.
 
 </td>
 <td width="50%" align="center">
 
-### 04 / EVERYTHING ELSE
+<img src="https://img.shields.io/badge/04-EVERYTHING_ELSE-E9DFE5?style=flat-square&labelColor=E9DFE5&color=E9DFE5" />
 
-Interesting discoveries and everything that doesn't fit elsewhere.
+<br/><br/>
+
+Random discoveries and everything that doesn't fit elsewhere.
 
 </td>
 </tr>
@@ -66,15 +75,15 @@ Interesting discoveries and everything that doesn't fit elsewhere.
 
 <div align="center">
 
-## THE PHILOSOPHY
+## THE IDEA
 
 </div>
 
-> Not everything needs a purpose.
+> Some things are created to be shared.
 >
-> Not everything needs to be finished.
+> Some things are collected to be remembered.
 >
-> Some things are simply worth keeping.
+> Some things are explored simply because they are interesting.
 
 <br/>
 
@@ -82,20 +91,20 @@ Interesting discoveries and everything that doesn't fit elsewhere.
 
 <div align="center">
 
-### THE ARCHIVE
+### AN EVER-GROWING ARCHIVE
 
-A growing collection. Always evolving.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=2&section=footer" width="70%" />
+No fixed destination. Just a place to keep exploring.
 
 <br/><br/>
 
-<sub>PORT7 © 2025–2026 · PERSONAL SPACE · ALWAYS EXPLORING</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DFE8DA&height=3&section=footer" width="65%" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+<sub>PORT7 &nbsp; · &nbsp; PERSONAL ARCHIVE &nbsp; · &nbsp; 2025—2026</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DFE8DA,100:EEE9D9&height=110&section=footer" width="100%" />
 
 </div>
