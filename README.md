@@ -1,4 +1,4 @@
-l<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=PORT7&fontSize=85&fontColor=ffffff&color=0:090909,50:292929,100:090909&animation=fadeIn&stroke=777777&fontAlignY=45&desc=PERSONAL%20ARCHIVE&descSize=14&descColor=999999&descAlignY=68" /><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=900&color=AAAAAA&center=true&vCenter=true&width=500&lines=Welcome+to+my+corner.;A+collection+of+notes+and+ideas.;Explore.+Learn.+Repeat." /><br/><br/>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=PORT7&fontSize=85&fontColor=ffffff&color=0:090909,50:292929,100:090909&animation=fadeIn&stroke=777777&fontAlignY=45&desc=PERSONAL%20ARCHIVE&descSize=14&descColor=999999&descAlignY=68" /><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=900&color=AAAAAA&center=true&vCenter=true&width=500&lines=Welcome+to+my+corner.;A+collection+of+notes+and+ideas.;Explore.+Learn.+Repeat." /><br/><br/>
 
 "EST. 2025"   ·   "PERSONAL SPACE"   ·   "ALWAYS EXPLORING"
 
